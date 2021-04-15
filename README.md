@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**lucassouza97/lucassouza97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lucas Souza
 
 - 🔭 i'm currently working on B2W Digital at Software Developer in CrossBorder Team
 - 📚 currently studying Javascript/TypeScript, Node JS. 
